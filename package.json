@@ -1,0 +1,17 @@
+{
+  "name": "conectardb2",
+  "version": "1.0.0",
+  "description": "Conectar base db2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cf-deployment-tracker-client": "0.0.8",
+    "express": "^3.5.3",
+    "ibm_db": "^2.7.1",
+    "jade": "1.11.0"
+  }
+}
